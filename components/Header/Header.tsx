@@ -12,9 +12,10 @@ const Header = () => {
       <div className="flex items-center bg-amazon_blue p-1 grow py-2">
         <div className="flex mt-2 items-center grow sm:grow-0">
           <Image
+            priority
             onClick={() => router.push("/")}
             alt="logo"
-            src="https://links.papareact.com/f90"
+            src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"
             width={150}
             height={40}
             className="cursor-pointer object-contain"
