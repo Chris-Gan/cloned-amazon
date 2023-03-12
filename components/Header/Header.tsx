@@ -15,7 +15,7 @@ const Header = () => {
             priority
             onClick={() => router.push("/")}
             alt="logo"
-            src="https://pngimg.com/uploads/amazon/amazon_PNG11.png"
+            src="/amazon_logo.png"
             width={150}
             height={40}
             className="cursor-pointer object-contain"
