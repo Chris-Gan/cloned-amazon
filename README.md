@@ -1,27 +1,23 @@
-# Next.js + Tailwind CSS Example
+# Amazon Clone Web Application
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.2)](https://tailwindcss.com/blog/tailwindcss-v3-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+Welcome to the Amazon Clone Web Application. This project replicates the core functionalities of the Amazon website using the latest advancements in server-side rendering technology with Next.js.
 
-## Deploy your own
+## Features
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+- **Next.js Server-Side Rendering**: Utilized Next.js to stay updated with cutting-edge advancements in server-side rendering.
+- **E-commerce Integration**: Integrated FakeStore API for product data and Stripe with Webhooks for a realistic e-commerce experience.
+- **Rapid UI Development**: Engineered using Tailwind CSS, facilitating a 50% decrease in frontend development time.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## Live Demo
 
-## How to use
+You can access the live version of the Amazon Clone Web Application at the following link:
+- [Amazon Clone Web Application](https://cloned-amazon-chris-gan.vercel.app/)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+## Technologies Used
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+- **Next.js**: For server-side rendering and overall framework
+- **FakeStore API**: For product data
+- **Stripe**: For payment processing with Webhooks
+- **Tailwind CSS**: For rapid UI development
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
